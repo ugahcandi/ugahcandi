@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ugahcandi
 - 👀 I’m interested in ... Full stack dev
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... JavaScript and react js
+- 💞️ I’m looking to collaborate on ... senior Collegues in the field
 - 📫 How to reach me ... ugahcandidus@gmail.com
 
 <!---
